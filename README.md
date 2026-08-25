@@ -16,18 +16,7 @@ Focada em **Engenharia e Desenvolvimento de Software**, construindo aplicações
 
 ### 🚀 Projetos em Destaque
 
-- **🎮 Nawat Games Mauá:** Desenvolvimento de mecânicas de jogos e arquitetura orientada a objetos em C# / Unity.
-- **🤖 Robô Móvel Autônomo:** Sistema de controle e navegação autônoma em C++/Arduino (Premiado em 2º lugar na competição da Mauá).
-- **🌐 IoT & Conectividade:** Protótipos de automação e comunicação em rede com microcontroladores ESP32 e Arduino.
-
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LindsayLSJaldin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindsayLSJaldin&layout=compact&theme=tokyonight" />
-</p>
+- **🎮 Nawat Games:** Desenvolvimento de mecânicas de jogos e arquitetura orientada a objetos em C# / Unity.
 
 ---
 
